@@ -1,5 +1,11 @@
 package Rotate_Search;
 
+/*This is the main class. The program will find the target value by binary search.
+  Users can change the input numbers in the hardcoded lines in the main class. 
+  The output minimum value will be seen in the console after compiling the program.
+  Author: Hyejin Kim
+  Date: 9/14/2021 */
+
 public class Main {
     public static void main(String[] args){
 
